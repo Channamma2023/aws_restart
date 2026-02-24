@@ -1,0 +1,24 @@
+myfruitlist=["apple","banana","cherry"]
+print(myfruitlist)
+print(type(myfruitlist))
+print(myfruitlist[0])
+print(myfruitlist[1])
+print(myfruitlist[2])
+myfruitlist[2]="orange"
+print(myfruitlist)
+myFinalAnswerTuple = ("apple", "banana", "pineapple")
+print(myFinalAnswerTuple)
+print(type(myFinalAnswerTuple))
+print(myFinalAnswerTuple[0])
+print(myFinalAnswerTuple[1])
+print(myFinalAnswerTuple[2])
+myFavouritefruitDictioranary={
+    "a":"apple",
+    "b":"banana",
+    "c":"cherry"
+}
+print(myFavouritefruitDictioranary)
+print(type(myFavouritefruitDictioranary))
+print(myFavouritefruitDictioranary["a"])
+print(myFavouritefruitDictioranary["b"])
+print(myFavouritefruitDictioranary["c"])
